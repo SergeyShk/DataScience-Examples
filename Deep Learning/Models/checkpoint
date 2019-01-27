@@ -1,0 +1,2 @@
+model_checkpoint_path: "tf_example.ckpt"
+all_model_checkpoint_paths: "tf_example.ckpt"
