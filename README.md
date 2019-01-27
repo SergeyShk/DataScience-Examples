@@ -4,7 +4,7 @@
 <img src="https://tech-trust.org/wp-content/uploads/2017/03/examples.jpg" width="600">
 </p>
 
-My examples of solving various problems of Data Science
+My examples of solving various problems of Data Science based on completed online courses
 
 ## Machine Learning Problems
 | № | Title |
@@ -19,3 +19,8 @@ My examples of solving various problems of Data Science
 | 8 | K-Means Clustering |
 | 9 | Principal Component Analysis |
 | 10 | Naive Bayes |
+
+## Deep Learning Problems
+| № | Title |
+| :---: | :---: |
+| 1 | Artificial Neural Network with TensorFlow |
