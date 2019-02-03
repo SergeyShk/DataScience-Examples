@@ -24,3 +24,8 @@ My examples of solving various problems of Data Science based on completed onlin
 | № | Title |
 | :---: | :---: |
 | 1 | Artificial Neural Network with TensorFlow |
+| 2 | Convolutional Neural Networks |
+| 3 | Recurrent Neural Networks |
+| 4 | Autoencoders |
+| 5 | Generative Adversarial Networks |
+| 6 | Reinforcement Learning |
