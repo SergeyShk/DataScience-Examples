@@ -6,6 +6,11 @@
 
 My examples of solving various problems of Data Science based on completed online courses
 
+## Programming Problems
+| № | Title |
+| :---: | :---: |
+| 1 | Algorithms and Structures |
+
 ## Machine Learning Problems
 | № | Title |
 | :---: | :---: |
