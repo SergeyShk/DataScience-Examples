@@ -34,3 +34,8 @@ My examples of solving various problems of Data Science based on completed onlin
 | 4 | Autoencoders |
 | 5 | Generative Adversarial Networks |
 | 6 | Reinforcement Learning |
+
+## Computer Vision Problems
+| № | Title |
+| :---: | :---: |
+| 1 | Neural Style Transfer |
