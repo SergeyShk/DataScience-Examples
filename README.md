@@ -39,3 +39,8 @@ My examples of solving various problems of Data Science based on completed onlin
 | № | Title |
 | :---: | :---: |
 | 1 | Neural Style Transfer |
+
+## Natural Language Processing Problems
+| № | Title |
+| :---: | :---: |
+| 1 | Character-Level Language Modeling |
